@@ -1,7 +1,7 @@
-# Hi, I'm Byron 👋
+# Byron Fisher
 
-Software engineer based in Australia.
+CEO. DataOps Engineer. Consultant. Mentor.
 
-## Languages
+Previously an Academic and Honorary Researcher. Passionate about connecting ideas, data and people to build useful technology.
 
-![](./profile-summary-card-output/default/1-repos-per-language.svg)
+[thefish.dev](https://thefish.dev)
